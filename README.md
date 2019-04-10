@@ -3,13 +3,13 @@
 ```
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/IndonesianSecurity/kkktp
+$ git clone https://github.com/actsquad/ACT2
 $ cd kkktp
 $ ls
 $ php kkktp.php
 ```
 # Autor
-Greyanonymous  
+PANCARI Cuang  
 
 # Spesial Thank
-Indonesian Security || Indoxploit
+ACT2Squad || ANTI 4444
